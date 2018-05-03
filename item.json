@@ -1,0 +1,846 @@
+[
+  {
+      "Id": "1",
+      "Photo": "https://picsum.photos/320/400",
+      "Title": "知識讓人自由，保險學堂幫助您建立通往財富道路",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "true",
+      "towse": ""
+    },
+    {
+      "Id": "2",
+      "Photo": "https://picsum.photos/400/340",
+      "Title": "傷害險及旅平險",
+      "Link": "http://docs.google.com/gview?url=https://www.allianz.com.tw/v_1447304484000/downloads/product/Protection/accident-and-travel/%E5%82%B3%E7%B5%B1%E8%A1%8C%E4%A2%9D%E4%AC%BE%E4%A8%A3%E5%BC%B5/TA1-E01v2.pdf&embedded=true",
+      "Type": "type-a",
+      "Class": "4",
+      "myLove": "true",
+      "towse": ""
+    },
+    {
+      "Id": "3",
+      "Photo": "https://picsum.photos/494/400",
+      "Title": "傳統型外幣商品利率宣告查詢",
+      "Link": "http://docs.google.com/gview?url=https://www.allianz.com.tw/v_1447304484000/downloads/product/Protection/accident-and-travel/%E5%82%B3%E7%B5%B1%E8%A1%8C%E4%A2%9D%E4%AC%BE%E4%A8%A3%E5%BC%B5/TA1-E01v2.pdf&embedded=true",
+      "Type": "type-a",
+      "Class": "4",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "4",
+      "Photo": "https://picsum.photos/400/401",
+      "Title": "有夢最美讓投資與保障與您相伴",
+      "Link": "https://www.youtube.com/embed/4axeWdOx9lQ?autoplay=1",
+      "Type": "type-d",
+      "Class": "4",
+      "myLove": "false",
+      "towse": ""
+    },
+    {
+      "Id": "5",
+      "Photo": "https://picsum.photos/400/425",
+      "Title": "挑選適合您的保障，專戶專用",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "true",
+      "towse": ""    
+    },
+      {
+      "Id": "6",
+      "Photo": "https://picsum.photos/400/434",
+      "Title": "停售商品專區",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "false",
+      "towse": ""    
+    },
+    {
+      "Id": "7",
+      "Photo": "https://picsum.photos/749/400",
+      "Title": "保單要增色，保障要升級",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "false",
+      "towse": ""   
+    },
+    {
+      "Id": "8",
+      "Photo": "https://picsum.photos/400/280",
+      "Title": "知識讓人自由，保險學堂幫助您建立通往財富道路",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "false",
+      "towse": ""   
+    },
+    {
+      "Id": "9",
+      "Photo": "https://picsum.photos/400/250",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "false",
+      "towse": ""   
+    },
+    {
+      "Id": "10",
+      "Photo": "https://picsum.photos/400/270",
+      "Title": "傳統型外幣商品利率宣告查詢",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "false",
+      "towse": ""     
+    },
+    {
+      "Id": "11",
+      "Photo": "https://picsum.photos/400/278",
+      "Title": "有夢最美，讓投資與保障與您相伴",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "false",
+      "towse": ""   
+    },
+    {
+      "Id": "12",
+      "Photo": "https://picsum.photos/400/279",
+      "Title": "挑選適合您的保障專戶專用！",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""     
+
+    },
+    {
+      "Id": "13",
+      "Photo": "https://picsum.photos/400/285",
+      "Title": "停售商品專區",
+      "Link": "https://www.youtube.com/embed/4axeWdOx9lQ?autoplay=1",
+      "Type": "type-d",
+      "Class": "4",
+      "myLove": "false",
+      "towse": ""    
+    },
+    {
+      "Id": "14",
+      "Photo": "https://picsum.photos/400/249",
+      "Title": "保單要增色，保障要升級！",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "15",
+      "Photo": "https://picsum.photos/400/250",
+      "Title": "知識讓人自由，保險學堂幫助您建立通往財富道路",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "false",
+      "towse": ""    
+    },
+    {
+      "Id": "16",
+      "Photo": "https://picsum.photos/320/251",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "false",
+      "towse": ""     
+    },
+    {
+      "Id": "17",
+      "Photo": "https://picsum.photos/320/447",
+      "Title": "傳統型外幣商品利率宣告查詢",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "true",
+      "towse": ""    
+    },
+    {
+      "Id": "18",
+      "Photo": "https://picsum.photos/320/554",
+      "Title": "有夢最美，讓投資與保障與您相伴！",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "false",
+      "towse": ""    
+    },
+    {
+      "Id": "19",
+      "Photo": "https://picsum.photos/325/400",
+      "Title": "知識讓人自由，保險學堂幫助您建立通往財富道路",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "false",
+      "towse": ""     
+    },
+    {
+      "Id": "20",
+      "Photo": "https://picsum.photos/324/450",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "21",
+      "Photo": "https://picsum.photos/324/480",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "22",
+      "Photo": "https://picsum.photos/324/440",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "23",
+      "Photo": "https://picsum.photos/324/409",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "4",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "24",
+      "Photo": "https://picsum.photos/324/460",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "25",
+      "Photo": "https://picsum.photos/324/474",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "26",
+      "Photo": "https://picsum.photos/324/411",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "27",
+      "Photo": "https://picsum.photos/324/412",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "28",
+      "Photo": "https://picsum.photos/324/425",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "29",
+      "Photo": "https://picsum.photos/324/464",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "30",
+      "Photo": "https://picsum.photos/324/444",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "31",
+      "Photo": "https://picsum.photos/324/487",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "32",
+      "Photo": "https://picsum.photos/324/465",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "33",
+      "Photo": "https://picsum.photos/324/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "34",
+      "Photo": "https://picsum.photos/324/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "35",
+      "Photo": "https://picsum.photos/324/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "36",
+      "Photo": "https://picsum.photos/325/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "37",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "38",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "39",
+      "Photo": "https://picsum.photos/327/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "40",
+      "Photo": "https://picsum.photos/329/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "41",
+      "Photo": "https://picsum.photos/315/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "42",
+      "Photo": "https://picsum.photos/332/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "43",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "44",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "45",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "46",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "47",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "48",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "49",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "50",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "1"   
+    },
+    {
+      "Id": "51",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "52",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "53",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "54",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "55",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "56",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "57",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "58",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "59",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "60",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "1",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "61",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "1",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "62",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "1",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "63",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "1",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "64",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "1",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "65",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "1",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "66",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "67",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "68",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "1",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "69",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "1",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "70",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "3",
+      "myLove": "true",
+      "towse": ""   
+    },
+    {
+      "Id": "71",
+      "Photo": "https://picsum.photos/326/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "72",
+      "Photo": "https://picsum.photos/325/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "73",
+      "Photo": "https://picsum.photos/324/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "74",
+      "Photo": "https://picsum.photos/323/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "75",
+      "Photo": "https://picsum.photos/322/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "76",
+      "Photo": "https://picsum.photos/321/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "77",
+      "Photo": "https://picsum.photos/320/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "78",
+      "Photo": "https://picsum.photos/318/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "79",
+      "Photo": "https://picsum.photos/319/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "80",
+      "Photo": "https://picsum.photos/317/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "81",
+      "Photo": "https://picsum.photos/316/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "82",
+      "Photo": "https://picsum.photos/314/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "83",
+      "Photo": "https://picsum.photos/313/400",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    },
+    {
+      "Id": "84",
+      "Photo": "https://picsum.photos/311/405",
+      "Title": "傷害險及旅平險",
+      "Link": "https://www.allianz.com.tw/zh-tw/",
+      "Type": "type-b",
+      "Class": "2",
+      "myLove": "true",
+      "towse": "2"   
+    }
+
+
+
+]

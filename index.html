@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Allianz</title>
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <link rel="stylesheet" type="text/css" href="css/screen.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="js/jquery.ui.touch-punch.min.js"></script>
+    <script src="js/hammer.min.js"></script>
+    <style type="text/css">
+     ::-webkit-scrollbar {
+        display: none;
+    }
+
+    .sortable-chosen {
+        opacity: .2;
+    }
+
+    #container {
+        width: 100%;
+        height: auto;
+    }
+
+    .item {
+        -webkit-touch-callout: none;
+        /* iOS Safari */
+        -webkit-user-select: none;
+        /* Safari */
+        -khtml-user-select: none;
+        /* Konqueror HTML */
+        -moz-user-select: none;
+        /* Firefox */
+        -ms-user-select: none;
+        /* Internet Explorer/Edge */
+        user-select: none;
+        /* Non-prefixed version, currently supported by Chrome and Opera */
+    }
+    </style>
+</head>
+
+<body>
+    <header>
+        <img src="img/menu_icon.jpg" id='h_menu' />
+        <h2>安聯人壽-多媒體專區</h2>
+        <div id='edit'></div>
+    </header>
+    <div class='all_menu'>
+        <div class='menu'>
+            <div class='menu_bar'>
+            </div>
+        </div>
+        <div class='two_menu'>
+            <div class='commodity' style='display: none;'>
+                <a href="javascript:;" class='active' data-id='0'>全部</a>
+                <a href="javascript:;" data-id='1'>投資型</a>
+                <a href="javascript:;" data-id='2'>傳統型</a>
+            </div>
+            <div class='my_love_wt'>
+                <span>長按 開啟排序功能</span>
+                <span><a href="javascript:;" class='close_sort'>關閉排序</a></span>
+            </div>
+        </div>
+    </div>
+    <div id='container'>
+    </div>
+    <div class='num_shadow_box'>
+        <div id='search_w'>
+            <a href="javascript:;" class='search'></a>
+        </div>
+        <div class='num_shadow'></div>
+        <div class='num_box'></div>
+    </div>
+    <div class='search_page'>
+        <div class='search_all_box'>
+            <form class='se_box'>
+                <span class='se_b'>
+                <input type="text" id='search_ip' name='search_ip' placeholder='關鍵字搜尋'>
+                <a href="javascript:;" class='close_se'>關閉</a>
+            </span>
+            </form>
+            <div class='keyword'>
+                <h3>推薦話題</h3>
+                <ul class='keyword_list'>
+                    <li>i探索</li>
+                    <li>F1保戶園地</li>
+                    <li>投資型保險</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--     <div class='bg'>
+    <div class='search_page'>
+        <div class='search_inbox'>
+        <div class='search_input'>
+            <input type="text" name="search" value='關鍵字搜尋'>
+            <a href="javascript:;">關閉</a>
+        </div>
+        <div class='recommend'>
+            <h6>推薦話題</h6>
+            <span class='recommend_list'>
+            <div>i探索</div>
+            <div>F1保戶園地</div>
+            <div>投資型保險</div>
+            <div>變額年金保險</div>
+            </span>
+            <a href="" class='clear_recommend'></a>
+            <a href="" class='search_key'></a>
+        </div>
+        </div>
+    </div>
+    </div> -->
+</body>
+<script type="text/javascript" src='js/Sortable.min.js'></script>
+<script src='js/mainbk.js'></script>
+
+</html>
